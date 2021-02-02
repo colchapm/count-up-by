@@ -16,7 +16,7 @@ Practice project created for Epicodus coding bootcamp. Used for learning for loo
 ###  Setup/Installation Requirements
 
 * Clone this repository to your desktop
-* Navigate toe the top level of the directory
+* Navigate to the top level of the directory
 * Open index.html in your browser
 
 ### Known Bugs
